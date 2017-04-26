@@ -12,9 +12,7 @@ Only a developer participated in this project. The programmer Felipe Mitterofhe.
 
 ## Version control:
 
-<The system is currently in version 1.0.> 
-
-This version includes the basic web app code Fireworks, converted to a mobile app.
+The system is currently in version 1.0. This version includes the basic web app code Fireworks, converted to a mobile app.
 
 ## Authors:
 
